@@ -1,5 +1,8 @@
 # whatsCooking_Demo
-This is a demo video of my whatsCooking project. The code is in Java and made in Android Studio. Request for access!
+This is a demo video of my whatsCooking project. 
+Demo Link: https://www.youtube.com/watch?v=LrFUhJFCL9w
+
+The code is in Java and made in Android Studio. Request for access!
 
 ## Status Report 
 
